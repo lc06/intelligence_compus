@@ -1,0 +1,17 @@
+#rightPanel {
+    width: 22vw;
+    height: 200vh;
+    position: absolute;
+    right: 0px;
+    z-index: 99900;
+    background: linear-gradient(90deg, RGBA(9, 39, 76, .1), RGBA(9, 39, 76, .9));
+}
+
+#chart2,#chart3,#chart4{
+    width: 100%;
+    height: 300px;
+}
+
+#chart2{
+    margin-top: 20%;
+}

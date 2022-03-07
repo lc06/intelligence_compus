@@ -1,0 +1,79 @@
+#head{
+    position: absolute;
+    top: -5px;
+    left: 0;
+    width: 100%;
+    z-index: 99990;
+    opacity: 1;
+}
+
+#left1_img {
+    position :absolute;
+    content: url(../img/bg_l.png);
+    left: 10px;
+    z-index: -1;
+}
+#left2_img {
+    position :absolute;
+    content: url(../img/bg_l_l.png);
+    left: 350px;
+    top:20px;
+    z-index: -1;
+}
+#center_img {
+    content: url(../img/bg_1.png);
+    position :absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 90%;
+    z-index: -1;
+}
+#right1_img {
+    position :absolute;
+    content: url(../img/bg_r_r.png);
+    right: 350px;
+    top: 20px;
+    z-index: -1;
+}
+#right2_img {
+    position: absolute;
+    content: url(../img/bg_r.png);
+    right: 10px;
+    z-index: -1;
+}
+
+#titlech,#titleen{
+    margin:0;
+    padding:0;
+}
+#titlech{
+    margin-top: 15px;
+    font-size: 1.2vw;
+    font-weight: 600;
+    letter-spacing: .5vw;
+    text-align: center;
+    color: #00FFE4;
+}
+
+#titleen{
+    margin-top: 10px;
+    font-size: 1vw;
+    text-align: center;
+    color: #00FFE4;
+}
+
+#timeInfo{
+    height: 40px;
+    width: 160px;
+    position: absolute;
+    top: 3vw;
+    right: 12vw;
+}
+
+#weatherInfo{
+    height: 40px;
+    width: 160px;
+    position: absolute;
+    top: 3vw;
+    top: 12vw;
+}

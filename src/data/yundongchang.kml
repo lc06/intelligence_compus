@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>yundongchang</name>
+	<gx:CascadingStyle kml:id="__managed_style_0320F45B17180D3F6795">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12F6DED218180D3F6794">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FA1ED58BD180D3F6794">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12F6DED218180D3F6794</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0320F45B17180D3F6795</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="02FEF23AFE180D2F4D92">
+		<name>第一运动场</name>
+		<LookAt>
+			<longitude>117.1366307480388</longitude>
+			<latitude>34.21821877120672</latitude>
+			<altitude>52.65710472066996</altitude>
+			<heading>160.9657477345499</heading>
+			<tilt>48.67523522598704</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1895.213386727265</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FA1ED58BD180D3F6794</styleUrl>
+		<Point>
+			<coordinates>117.1400842699432,34.22059684479732,43.72371812820182</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B392E77F180D2F7219">
+		<name>第二运动场</name>
+		<LookAt>
+			<longitude>117.1366307480388</longitude>
+			<latitude>34.21821877120672</latitude>
+			<altitude>52.65710472066996</altitude>
+			<heading>160.9657477345499</heading>
+			<tilt>48.67523522598704</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1895.213386727265</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FA1ED58BD180D3F6794</styleUrl>
+		<Point>
+			<coordinates>117.1358641484745,34.21923547658505,59.11278812278092</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007BFFED31180D2F9687">
+		<name>第三运动场</name>
+		<LookAt>
+			<longitude>117.1338823753255</longitude>
+			<latitude>34.21432651009267</latitude>
+			<altitude>53.98932040114951</altitude>
+			<heading>160.964150999053</heading>
+			<tilt>48.66803933279407</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>829.5217382766714</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FA1ED58BD180D3F6794</styleUrl>
+		<Point>
+			<coordinates>117.1315004305508,34.21100242978981,56.15171915776099</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

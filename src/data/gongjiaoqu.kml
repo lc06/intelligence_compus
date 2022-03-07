@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>gongjiaoqu</name>
+	<gx:CascadingStyle kml:id="__managed_style_2914AC6173180D3F6857">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10E07F52F7180D3F6857">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0065150D72180D3F6857">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10E07F52F7180D3F6857</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2914AC6173180D3F6857</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0525B27960180D30B99A">
+		<name>博学楼1号楼</name>
+		<LookAt>
+			<longitude>117.1370604211934</longitude>
+			<latitude>34.21320492800442</latitude>
+			<altitude>44.18896122463337</altitude>
+			<heading>160.964308780554</heading>
+			<tilt>48.66874622352714</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>934.2089284089161</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065150D72180D3F6857</styleUrl>
+		<Point>
+			<coordinates>117.1370498639712,34.21467974950827,45.89834616615106</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BAB296D61180D30F3B8">
+		<name>博学楼2号楼</name>
+		<LookAt>
+			<longitude>117.1370604211934</longitude>
+			<latitude>34.21320492868065</latitude>
+			<altitude>44.18896122321872</altitude>
+			<heading>160.9643087803601</heading>
+			<tilt>48.66874622288791</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>934.2089284089161</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065150D72180D3F6857</styleUrl>
+		<Point>
+			<coordinates>117.1383670023671,34.21487004881129,44.57183010062164</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CBD20F518180D31118C">
+		<name>博学楼3号楼</name>
+		<LookAt>
+			<longitude>117.1370604211934</longitude>
+			<latitude>34.21320492868065</latitude>
+			<altitude>44.18896122321872</altitude>
+			<heading>160.9643087803601</heading>
+			<tilt>48.66874622288791</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>934.2089284089161</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065150D72180D3F6857</styleUrl>
+		<Point>
+			<coordinates>117.1370276405626,34.21351653222755,43.35930476866815</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D69849C8180D3131BB">
+		<name>博学楼4号楼</name>
+		<LookAt>
+			<longitude>117.1370604211934</longitude>
+			<latitude>34.21320492868065</latitude>
+			<altitude>44.18896122321872</altitude>
+			<heading>160.9643087803601</heading>
+			<tilt>48.66874622288791</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>934.2089284089161</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065150D72180D3F6857</styleUrl>
+		<Point>
+			<coordinates>117.1382721901208,34.21298760271466,44.09728369871589</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B8D577808180D31577B">
+		<name>博学楼5号楼</name>
+		<LookAt>
+			<longitude>117.1370604211934</longitude>
+			<latitude>34.21320492868065</latitude>
+			<altitude>44.18896122321872</altitude>
+			<heading>160.9643087803601</heading>
+			<tilt>48.66874622288788</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>934.2089284089161</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0065150D72180D3F6857</styleUrl>
+		<Point>
+			<coordinates>117.1393531418909,34.21291714819668,43.67547775290534</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

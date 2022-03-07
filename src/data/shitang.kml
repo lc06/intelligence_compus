@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>shitang</name>
+	<gx:CascadingStyle kml:id="__managed_style_2B01CB42CD180D3F67E8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C1A7A7206180D3F67E8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F7C968C51180D3F67E8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C1A7A7206180D3F67E8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B01CB42CD180D3F67E8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0D7E93E179180D32712F">
+		<name>桃苑餐厅</name>
+		<LookAt>
+			<longitude>117.1359604735673</longitude>
+			<latitude>34.21614279796405</latitude>
+			<altitude>51.8121513918203</altitude>
+			<heading>160.9637328493118</heading>
+			<tilt>48.66615011304463</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>549.7333939604141</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F7C968C51180D3F67E8</styleUrl>
+		<Point>
+			<coordinates>117.1354536792816,34.21669955297352,54.91040094501286</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00FF85F468180D32B6D0">
+		<name>松苑餐厅</name>
+		<LookAt>
+			<longitude>117.1341588388513</longitude>
+			<latitude>34.21477338548261</latitude>
+			<altitude>55.09505528250052</altitude>
+			<heading>160.9638821472447</heading>
+			<tilt>48.66682416377712</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>649.5587117853574</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F7C968C51180D3F67E8</styleUrl>
+		<Point>
+			<coordinates>117.1335467840754,34.21470245966663,55.10589673193113</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="088DAAF15D180D3319E1">
+		<name>梅苑餐厅</name>
+		<LookAt>
+			<longitude>117.1346252719258</longitude>
+			<latitude>34.21242518799439</latitude>
+			<altitude>49.8713866458877</altitude>
+			<heading>160.9633556423904</heading>
+			<tilt>48.66445000296985</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>297.9517481857329</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F7C968C51180D3F67E8</styleUrl>
+		<Point>
+			<coordinates>117.1346980745464,34.21213241255174,49.21895326025142</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

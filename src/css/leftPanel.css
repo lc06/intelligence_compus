@@ -1,0 +1,138 @@
+#leftPanel {
+    width: 22vw;
+    height: 200vh;
+    position: absolute;
+    z-index: 99900;
+    background: linear-gradient(90deg, RGBA(9, 39, 76, .9), RGBA(9, 39, 76, .1));
+}
+
+#searchPanel{
+    position: absolute;
+    top: 5.5vw;
+    left: 10px;
+    width: 70%;
+    padding: 8px;
+    background-color: rgba(0,0,0,.5);
+}
+
+#searchPanel div{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input#searchBox{
+    width: 100%;
+    height: 35px;
+    border: none;
+    box-sizing: border-box;
+    padding-left: 5px;
+    background-color: rgba(0, 0, 0, .9);
+    color: #eee;
+    outline-style: none;
+}
+
+button#searchBtn {
+    height: 35px;
+    width: 35px;
+    background-color: #56FFFF;
+    border: none;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    outline-style: none;
+}
+
+button#searchBtn img{
+    content: url(../img/search@2x.png);
+}
+
+#basicInfoPanel{
+    width: 100%;
+    height: 100px;
+    padding-top: 40%;
+}
+
+#basicInfoHint{
+    width: 100%;
+    font-size: 1vw;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 0 1.2vw;
+    color: #fff;
+}
+
+#basicInfo{
+    position: relative;
+    left: 1.2vw;
+    height: 40px;
+    width: 100%;
+    background: url(../img/jiben_bg.png) no-repeat;
+    background-size: 100% 100%;
+    padding-left: .8vw;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: .9vw;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+ul#display{
+    list-style: none;
+    height: 18%;
+    width: 100%;
+    padding-left: 1.vw;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+ul#display>li{
+    width: 90%;
+    height: 33%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul#display>li>div{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    cursor: pointer;
+}
+
+ul#display li:nth-child(1) div:nth-child(1) img{
+    content: url(../img/mianji.png);
+}
+ul#display li:nth-child(1) div:nth-child(2) img{
+    content: url(../img/xueyuanlou.png);
+}
+ul#display li:nth-child(2) div:nth-child(1) img{
+    content: url(../img/jingdian.png);
+}
+ul#display li:nth-child(2) div:nth-child(2) img{
+    content: url(../img/shitang.png);
+}
+ul#display li:nth-child(3) div:nth-child(1) img{
+    content: url(../img/yundongchang.png);
+}
+ul#display li:nth-child(3) div:nth-child(2) img{
+    content: url(../img/gongjiaoqu.png);
+}
+
+ul#display>li>div>p{
+    font-size: 12px;
+    color: #56FFFF;
+}
+
+#chart1{
+    width: 100%;
+    height: 300px;
+}

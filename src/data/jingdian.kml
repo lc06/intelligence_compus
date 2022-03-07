@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>jingdian</name>
+	<gx:CascadingStyle kml:id="__managed_style_15874B87B2180D3F6683">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_09EF4E4D06180D3F6683">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0525333BB6180D3F6682">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_09EF4E4D06180D3F6683</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_15874B87B2180D3F6683</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C9E679E6E180D349F59">
+		<name>不显山</name>
+		<LookAt>
+			<longitude>117.1396457875529</longitude>
+			<latitude>34.21281940838526</latitude>
+			<altitude>43.11320002954931</altitude>
+			<heading>160.964840209416</heading>
+			<tilt>48.67071536311836</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1225.832450286252</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525333BB6180D3F6682</styleUrl>
+		<Point>
+			<coordinates>117.1393257486266,34.21128860392034,42.48747722081436</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A84B8F1D2180D34EA65">
+		<name>励志园</name>
+		<LookAt>
+			<longitude>117.1384412023891</longitude>
+			<latitude>34.21137224409812</latitude>
+			<altitude>45.68562755052911</altitude>
+			<heading>160.9634126110742</heading>
+			<tilt>48.66427870687652</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>272.5831240032858</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525333BB6180D3F6682</styleUrl>
+		<Point>
+			<coordinates>117.1381103722766,34.21100096943857,45.65030566607665</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A3D71CAE0180D355507">
+		<name>国旗广场</name>
+		<LookAt>
+			<longitude>117.1408839962513</longitude>
+			<latitude>34.21411450057876</latitude>
+			<altitude>42.6359787404942</altitude>
+			<heading>160.9640023351501</heading>
+			<tilt>48.66693859350179</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>666.5040864532784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525333BB6180D3F6682</styleUrl>
+		<Point>
+			<coordinates>117.1416206043331,34.21483263751786,44.32064893713964</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="093F85A996180D35A30C">
+		<name>校友公园</name>
+		<LookAt>
+			<longitude>117.1439934061471</longitude>
+			<latitude>34.21394708918704</latitude>
+			<altitude>37.25212227507009</altitude>
+			<heading>160.9692573425057</heading>
+			<tilt>48.68171410428082</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2854.710373983253</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525333BB6180D3F6682</styleUrl>
+		<Point>
+			<coordinates>117.1480154728337,34.21956646937199,34.65346544035075</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D29C72624180D364E31">
+		<name>图书馆</name>
+		<LookAt>
+			<longitude>117.1439934061471</longitude>
+			<latitude>34.21394708918704</latitude>
+			<altitude>37.25212227507009</altitude>
+			<heading>160.9692573425057</heading>
+			<tilt>48.68171410428082</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2854.710373983253</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525333BB6180D3F6682</styleUrl>
+		<Point>
+			<coordinates>117.1392628969306,34.21629693510177,44.58131621494754</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0973A07CB7180D36A98E">
+		<name>中国煤炭科技博物馆</name>
+		<LookAt>
+			<longitude>117.1439382714313</longitude>
+			<latitude>34.21692416626828</latitude>
+			<altitude>36.74510547612845</altitude>
+			<heading>160.9668807357328</heading>
+			<tilt>48.6709973751605</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1267.596259283019</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525333BB6180D3F6682</styleUrl>
+		<Point>
+			<coordinates>117.143951485102,34.21935481433042,36.64188114164813</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E77812C13180D37266E">
+		<name>焦作路矿学堂</name>
+		<LookAt>
+			<longitude>117.1416264147574</longitude>
+			<latitude>34.21691255580676</latitude>
+			<altitude>40.28109845176236</altitude>
+			<heading>160.9652604042418</heading>
+			<tilt>48.66369237546952</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>185.749001273889</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0525333BB6180D3F6682</styleUrl>
+		<Point>
+			<coordinates>117.1412789722755,34.21683796055259,40.64675816354379</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
